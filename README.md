@@ -8,7 +8,7 @@ O projeto segue arquitetura de software e consiste em 3 camadas:
 - AVA.ForBrain.ApplicationCore
 - AVA.ForBrain.Infrastructure
 
-Foi ultilzado:
+Foi utilizado:
 
 - MongoDb(banco de dados)
 - FluentValidator
